@@ -1,3 +1,3 @@
-# Capitulo 3: Estilo
+# Capítulo 3: Estilo
 
 Normas de estilo y tono.
